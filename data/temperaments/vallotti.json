@@ -1,0 +1,25 @@
+{
+  "id": "vallotti",
+  "version": "1.0",
+  "category": "well_tempered",
+  "offsets_cents": [0.0, -5.87, -3.91, -1.96, -7.82, 1.96, -7.82, -1.96, -3.91, -5.87, 0.0, -9.78],
+  "didactics": {
+    "es": {
+      "name": "Vallotti",
+      "author_year": "Francesco Antonio Vallotti (1754)",
+      "history": "Tempera de forma uniforme las seis quintas diatónicas (F–C–G–D–A–E–B) en 1/6 de coma pitagórica y deja puras las seis quintas cromáticas.",
+      "pros": "Transición sumamente suave entre tonalidades y excelente equilibrio para música de cámara y continuo.",
+      "contras": "Las terceras mayores centrales son ligeramente menos puras que en Kirnberger III.",
+      "repertoire": "Barroco italiano y clasicismo temprano (Scarlatti, Vivaldi, Tartini, Mozart)."
+    },
+    "en": {
+      "name": "Vallotti",
+      "author_year": "Francesco Antonio Vallotti (1754)",
+      "history": "Narrows the six diatonic fifths (F–C–G–D–A–E–B) by 1/6 Pythagorean comma and leaves the six chromatic fifths pure.",
+      "pros": "Very smooth key-color progression and ideal balance for continuo playing.",
+      "contras": "Central major thirds are slightly wider than in Kirnberger III.",
+      "repertoire": "Italian Baroque and early Classical (Scarlatti, Vivaldi, Tartini, Mozart)."
+    }
+  },
+  "partition_sequence": []
+}

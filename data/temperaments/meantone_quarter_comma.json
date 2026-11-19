@@ -1,0 +1,31 @@
+{
+  "id": "meantone_quarter_comma",
+  "version": "1.0",
+  "category": "meantone",
+  "offsets_cents": [0.0, -23.95, -6.84, 10.26, -13.69, 3.42, -20.53, -3.42, -27.37, -10.26, 6.84, -17.11],
+  "didactics": {
+    "es": {
+      "name": "Mesotónico de 1/4 de Coma",
+      "author_year": "Pietro Aron (1523)",
+      "history": "Estrecha 11 quintas en 1/4 de coma sintónica para producir 8 terceras mayores completamente puras (razón 5/4).",
+      "pros": "Sonoridad extraordinariamente dulce y resonante en tonalidades centrales (Do, Sol, Re, Fa, Sib).",
+      "contras": "Genera una quinta del lobo muy disonante entre Sol# y Mib (~737.6 cents).",
+      "repertoire": "Renacimiento y primer Barroco (Cabezón, Frescobaldi, Sweelinck, Byrd)."
+    },
+    "en": {
+      "name": "1/4-Comma Meantone",
+      "author_year": "Pietro Aron (1523)",
+      "history": "Narrows 11 fifths by 1/4 syntonic comma to achieve 8 pure 5:4 major thirds.",
+      "pros": "Extraordinarily sweet, beatless major thirds in central keys.",
+      "contras": "Produces a harsh wolf fifth between G# and Eb (~737.6 cents).",
+      "repertoire": "Renaissance and early Baroque (Cabezón, Frescobaldi, Sweelinck, Byrd)."
+    }
+  },
+  "partition_sequence": [
+    {"midi": 69, "note_es": "Afina A4 como referencia base.", "note_en": "Tune A4 as base reference."},
+    {"midi": 64, "ref_midi": 69, "note_es": "Quinta A4–E4 estrecha (-1/4 CS).", "note_en": "Narrow A4–E4 fifth (-1/4 SC)."},
+    {"midi": 60, "ref_midi": 64, "note_es": "Tercera mayor C4–E4 pura (0 bat/s).", "note_en": "Pure C4–E4 major third (0 beats/s)."},
+    {"midi": 67, "ref_midi": 60, "note_es": "Quinta C4–G4 estrecha (-1/4 CS).", "note_en": "Narrow C4–G4 fifth (-1/4 SC)."},
+    {"midi": 62, "ref_midi": 67, "note_es": "Cuarta D4–G4 amplia.", "note_en": "Wide D4–G4 fourth."}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "equal_temperament",
+  "version": "1.0",
+  "category": "equal",
+  "offsets_cents": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+  "didactics": {
+    "es": {
+      "name": "Temperamento Igual (12-TET)",
+      "author_year": "Estándar moderno (ss. XIX–XX)",
+      "history": "Divide la octava en 12 semitonos idénticos de 100 cents mediante la razón 2^(1/12).",
+      "pros": "Permite modular libremente a las 24 tonalidades sin quintas del lobo.",
+      "contras": "Ninguna tercera ni quinta es acústicamente pura; elimina el carácter propio de cada tonalidad.",
+      "repertoire": "Repertorio romántico, moderno y contemporáneo."
+    },
+    "en": {
+      "name": "Equal Temperament (12-TET)",
+      "author_year": "Modern standard (19th–20th c.)",
+      "history": "Divides the octave into 12 identical 100-cent semitones with ratio 2^(1/12).",
+      "pros": "Allows free modulation across all 24 keys with no wolf fifth.",
+      "contras": "No pure thirds or fifths; erases distinct key colors.",
+      "repertoire": "Romantic, modern, and contemporary repertoire."
+    }
+  },
+  "partition_sequence": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "werckmeister_iii",
+  "version": "1.0",
+  "category": "well_tempered",
+  "offsets_cents": [0.0, -9.78, -7.82, -5.87, -9.78, -1.96, -11.73, -3.91, -7.82, -11.73, -3.91, -7.82],
+  "didactics": {
+    "es": {
+      "name": "Werckmeister III",
+      "author_year": "Andreas Werckmeister (1691)",
+      "history": "Reparte la coma pitagórica en cuatro quintas (C–G, G–D, D–A y B–F#) reducidas en 1/4 de coma, dejando puras las ocho restantes.",
+      "pros": "Permite tocar en las 24 tonalidades conservando gran transparencia en tonalidades con pocas alteraciones.",
+      "contras": "Las tonalidades con muchos sostenidos o bemoles suenan más tensas que en Vallotti.",
+      "repertoire": "Barroco alemán (Buxtehude, Pachelbel, J.S. Bach)."
+    },
+    "en": {
+      "name": "Werckmeister III",
+      "author_year": "Andreas Werckmeister (1691)",
+      "history": "Distributes the Pythagorean comma across four fifths (C–G, G–D, D–A, B–F#) narrowed by 1/4 comma, keeping 8 fifths pure.",
+      "pros": "Usable in all 24 keys while preserving clear consonance in common keys.",
+      "contras": "Remote keys have noticeably brighter, more tense thirds than Vallotti.",
+      "repertoire": "German Baroque (Buxtehude, Pachelbel, J.S. Bach)."
+    }
+  },
+  "partition_sequence": [
+    {"midi": 60, "note_es": "Afina C4 como ancla de partición.", "note_en": "Tune C4 as bearing anchor."},
+    {"midi": 67, "ref_midi": 60, "note_es": "Quinta C4–G4 estrecha (-1/4 CP).", "note_en": "Narrow C4–G4 fifth (-1/4 PC)."},
+    {"midi": 62, "ref_midi": 67, "note_es": "Cuarta D4–G4 amplia (-1/4 CP).", "note_en": "Wide D4–G4 fourth (-1/4 PC)."},
+    {"midi": 69, "ref_midi": 62, "note_es": "Quinta D4–A4 estrecha (-1/4 CP).", "note_en": "Narrow D4–A4 fifth (-1/4 PC)."},
+    {"midi": 64, "ref_midi": 69, "note_es": "Cuarta E4–A4 pura (0 bat/s).", "note_en": "Pure E4–A4 fourth (0 beats/s)."}
+  ]
+}

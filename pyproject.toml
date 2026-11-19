@@ -1,0 +1,15 @@
+[project]
+name = "aphynador"
+version = "0.3.0"
+description = "Afinador histórico en tiempo real con soporte para temperamentos antiguos, análisis de batimentos y escalas duales."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26.0",
+    "sounddevice>=0.4.6",
+    "flet>=1.1.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]

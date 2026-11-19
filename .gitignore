@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python y pruebas
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.hypothesis/
+.coverage
+
+# Bases de datos locales y archivos temporales
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store

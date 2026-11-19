@@ -1,0 +1,25 @@
+{
+  "id": "kirnberger_iii",
+  "version": "1.0",
+  "category": "well_tempered",
+  "offsets_cents": [0.0, -9.78, -6.84, -5.87, -13.69, -1.96, -9.78, -3.42, -7.82, -10.26, -3.91, -11.73],
+  "didactics": {
+    "es": {
+      "name": "Kirnberger III",
+      "author_year": "Johann Philipp Kirnberger (1779)",
+      "history": "Combina cuatro quintas reducidas en 1/4 de coma sintónica (C–G–D–A–E) para lograr una tercera mayor pura C–E, absorbiendo el cisma en F#–C#.",
+      "pros": "Combina la pureza de las terceras mesotónicas en Do mayor con la libertad de modulación del buen temperamento.",
+      "contras": "Salto perceptivo marcado al pasar hacia tonalidades muy alejadas.",
+      "repertoire": "Obra para teclado de J.S. Bach y escuela de Berlín (C.P.E. Bach)."
+    },
+    "en": {
+      "name": "Kirnberger III",
+      "author_year": "Johann Philipp Kirnberger (1779)",
+      "history": "Tempers four fifths (C–G–D–A–E) by 1/4 syntonic comma for a pure C–E third, absorbing the schisma in F#–C#.",
+      "pros": "Blends meantone-like central purity with full 24-key circulation.",
+      "contras": "Noticeable contrast when modulating into remote keys.",
+      "repertoire": "Keyboard works of J.S. Bach and the Berlin school (C.P.E. Bach)."
+    }
+  },
+  "partition_sequence": []
+}
